@@ -48,7 +48,7 @@ The **HR Analytics Dashboard** project is designed to empower HR teams with acti
 - **Regular Reporting**: Update data files monthly or quarterly to keep the dashboard insights up-to-date.
 - **Exporting Reports**: Export visuals and analyses in PDF or image format for sharing with stakeholders or including in presentations.
 
-## Data Source
+### Data Source
 
 This report uses a sample dataset of bank loan applications, which can be imported from a CSV or SQL database. The repository contains example data, but users can replace it with real bank data to tailor the dashboard to their needs.
 
@@ -76,12 +76,12 @@ The **Bank Loan Report project** is a comprehensive analytical dashboard designe
 - **SQL**: Data extraction and transformation.
 - **Power BI**: Visualization of loan metrics and trends.
 
-## Usage <a name="usage-bl"></a>
+### Usage <a name="usage-bl"></a>
 
 - **Interactive Exploration**: Use Power BI’s filters to drill down by loan type, customer demographics, or time period.
 - **Regular Analysis**: Refresh the data monthly or quarterly to keep the report updated with the latest loan data.
 - **Export Options**: Export visuals as PDFs or images for presentations and internal reporting.
- ## Data Source
+ ### Data Source
  
 This report uses a sample dataset of bank loan applications, which can be imported from a CSV or SQL database. The repository contains example data, but users can replace it with real bank data to tailor the dashboard to their needs.
 
