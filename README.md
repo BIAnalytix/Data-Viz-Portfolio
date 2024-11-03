@@ -44,8 +44,4 @@ The **HR Analytics Dashboard** project provides insights into key HR metrics usi
 - **Power BI**: Interactive dashboard creation.
 - **Tableau**: Additional visualizations.
 
-### Getting Started <a name="getting-started-hr"></a>
 
-1. **Navigate to the Project Folder**:
-   ```bash
-   cd HR-Analytics-Dashboard
