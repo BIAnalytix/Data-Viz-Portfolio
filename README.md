@@ -20,7 +20,6 @@ Each project includes interactive dashboards and analytical insights built with 
    - [Tools Used](#tools-used-bl)
    - [Usage](#usage-bl)
    - [Conclusion](#conclusion-bl)
-3. [Contact](#contact)
 
 ---
 
@@ -43,5 +42,40 @@ The **HR Analytics Dashboard** project provides insights into key HR metrics usi
 - **Excel**: Data preprocessing and initial analysis.
 - **Power BI**: Interactive dashboard creation.
 - **Tableau**: Additional visualizations.
+### Usage <a name="usage-hr"></a>
+
+Use filters in Power BI or Tableau to explore specific HR metrics.
+
+### Conclusion <a name="conclusion-hr"></a>
+
+The HR Analytics Dashboard provides critical HR insights, helping organizations make data-driven decisions for workforce management.
+
+
+## Bank Loan Report <a name="bank-loan-report"></a>
+
+### Project Overview <a name="project-overview-bl"></a>
+
+The **Bank Loan Report** project provides an analysis of loan application and funding data using **SQL and Power** BI. It offers insights into approval rates, funded amounts, customer demographics, and risk factors.
+
+### Key Features <a name="key-features-bl"></a>
+
+- **Loan Applications Overview**: Tracks total applications and trends.
+- **Approval Analysis**: Visualizes approval vs. rejection rates.
+- **Funded Amount Metrics**: Funded volumes by loan type and region.
+- **Customer Demographics**: Insights into age, income, and employment type.
+- **Risk Assessment**: Identification of high-risk loan categories.
+
+### Tools Used <a name="tools-used-bl"></a>
+
+- **SQL**: Data extraction and transformation.
+- **Power BI**: Visualization of loan metrics and trends.
+
+## Usage <a name="usage-bl"></a>
+
+Filter the Power BI dashboard by loan type or demographic to explore detailed metrics.
+
+### Conclusion <a name="conclusion-bl"></a>
+
+The Bank Loan Report provides detailed insights into loan performance, allowing banks to understand trends and manage risk effectively.
 
 
